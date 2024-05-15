@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Hangfire.Controllers.JobTestController",
+    "Method": "CreateFireAndForgetJob",
+    "RelativePath": "FireAndForgetJob",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
